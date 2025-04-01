@@ -1,3 +1,6 @@
+# What this is
+This is basically a newly pulled version of ARENA_3.0 as of Tuesday April 1st, 2025. I did Chapter 0 a while ago (Summer 2024) but I did not finish Chapter 1 nor did I even begin Chapter 2. At that time Chapter 3 did not exist. I intend to finish at least Chapter 1.
+
 # Install Instructions
 
 1) Close the repo
